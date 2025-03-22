@@ -85,22 +85,19 @@ rate.limiter.token.refill.period=${RATE_LIMITER_TOKEN_REFILL_PERIOD}
 ## 🛠Installation & Setup
 A step by step series of examples that tell you how to get a development env running.
 
-### Setup Database
-1. Start PostgreSQL and run the provided DDL script to set up the database schema
-
-2. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/yoanesber/Spring-Boot-Rate-Limit-Bucket4j.git
 cd Spring-Boot-Rate-Limit-Bucket4j
 ```
 
-3. Run the application locally
+2. Run the application locally
 Make sure PostgreSQL is running, then execute: 
 ```bash
 mvn spring-boot:run
 ```
 
-4. The API will be available at:
+3. The API will be available at:
 ```bash
 http://localhost:8081/ 
 ```
