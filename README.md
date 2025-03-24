@@ -144,4 +144,5 @@ If the number of requests exceeds the allowed limit within a given time frame, t
 ---
 
 ## 📌 Reference
-Rate Limit with Redis GitHub Repository, check out [Department REST API with Redis Cache and Rate Limiting](https://github.com/yoanesber/Spring-Boot-Rate-Limit-Redis).
+- Rate Limit with Redis GitHub Repository, check out [Department REST API with Redis Cache and Rate Limiting](https://github.com/yoanesber/Spring-Boot-Rate-Limit-Redis).
+- Rate Limit with Kong GitHub Repository, check out [Spring Boot Department API with Kong API Gateway & Rate Limiting](https://github.com/yoanesber/Spring-Boot-Rate-Limit-Kong).
